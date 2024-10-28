@@ -7,3 +7,5 @@ Find me around the web:
 Learning in public on Twitch📹 ✍🏾    
 Tinkering with interactions on Codepen 🏓
 Sharing updates on LinkedIn 💼
+
+javascript typescript react graphql nodejs
