@@ -21,5 +21,6 @@ I'm a self-taught passionate Fullstack developer from Sri lanka
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 
+<br /><br />
 ![e058eecc0652ff38a4e7062cfcf08c9d](https://github.com/user-attachments/assets/4b9e9554-d244-4933-b4a3-c564d737e00d)
 
