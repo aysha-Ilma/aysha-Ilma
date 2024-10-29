@@ -1,6 +1,4 @@
-<p align="center"><a href="https://github.com/aysha-Ilma/aysha-Ilma.git"><img width="80%" alt="Hello, I'm Aysha Ilma. I do open source!" src="![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/52eaa5a7-6cd1-46af-a29e-97fc5bc7e94b)
-
-" /></a></p>
+<p align="center"><a href="https://github.com/aysha-Ilma/aysha-Ilma.git"><img width="80%" alt="Hello, I'm Aysha Ilma. I do open source!" src="![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/52eaa5a7-6cd1-46af-a29e-97fc5bc7e94b)" /></a></p>
 
 <br />
 
@@ -11,6 +9,9 @@ I'm a self-taught passionate Fullstack developer from Sri lanka
 - 💼 Full-stack Developer
 
 - ❤️ I love writing code, and building fun experiments on type-level
+
+
+<br /> <br />
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
