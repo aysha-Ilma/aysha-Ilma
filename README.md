@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/aysha-Ilma/aysha-Ilma.git"><img width="80%" alt="Hello, I'm Aysha Ilma. I do open source!" src="![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/52eaa5a7-6cd1-46af-a29e-97fc5bc7e94b)" /></a></p>
+
+![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/81ca2351-2cf5-4c31-932a-9e43cb800f57, height = "100")
 
 <br />
 
