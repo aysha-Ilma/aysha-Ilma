@@ -1,5 +1,5 @@
 
-![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/81ca2351-2cf5-4c31-932a-9e43cb800f57, height = "100")
+![animated-girl-hi-waving-zb3ltk28xwzxomxc](https://github.com/user-attachments/assets/81ca2351-2cf5-4c31-932a-9e43cb800f57)
 
 <br />
 
